@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" group-title="Türkiye", TRT 1
+http://örnek-link.com/trt1.m3u8
+
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" group-title="Türkiye", ATV
+http://örnek-link.com/atv.m3u8
